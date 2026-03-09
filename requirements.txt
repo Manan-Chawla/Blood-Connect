@@ -1,6 +1,6 @@
---index-url https://pypi.org/simple/
---upgrade pip setuptools wheel
-
+pip==26.0.1
+setuptools==70.0.0
+wheel==0.43.0
 Django==4.2.7
 Pillow==10.3.0
 psycopg2-binary==2.9.9
